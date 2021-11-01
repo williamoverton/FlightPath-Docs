@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Query String
 
-Query parameters are not part of routing, they can be access in the `req.query` object.
+Query parameters are not part of routing, they can be accessed in the `req.query` object.
 
 ## Get query / search paramater value
 

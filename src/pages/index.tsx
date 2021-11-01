@@ -55,7 +55,7 @@ router.listen();`;
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Routing for C@E`}
       description="Express style router for Fastly Compute@Edge"
     >
       <HomepageHeader />

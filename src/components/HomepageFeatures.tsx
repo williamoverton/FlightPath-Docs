@@ -18,7 +18,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Easy to Use',
     description: (
       <>
-        Flight Path was designed to be familiar javascript developers with experience making service with popular frameworks like Express
+        Flight Path was designed to be familiar to javascript developers with experience making services with popular frameworks like Express
       </>
     ),
   },

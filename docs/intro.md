@@ -8,7 +8,7 @@ Let's discover **Flight Path in less than 5 minutes**.
 
 ## Getting Started
 
-Firslty follow the docs on [developer.fastly.com](https://developer.fastly.com) for getting started with Javascript in C@E:
+Firstly follow the docs on [developer.fastly.com](https://developer.fastly.com) for getting started with Javascript in C@E:
 
 Getting started with C@E: [https://developer.fastly.com/learning/compute/](https://developer.fastly.com/learning/compute/)
 

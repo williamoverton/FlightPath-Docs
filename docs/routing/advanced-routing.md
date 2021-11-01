@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Advanced Routing
 
-Flight Path offers some more advanced routing options which as explained below.
+Flight Path offers some more advanced routing options which are explained below.
 
 ## Wildcards
 
