@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Get Headers
 
-You can retrieve the headers send by the client by accessing the `req.headers` object.
+You can retrieve the headers sent by the client by accessing the `req.headers` object.
 Note: **All header names are lowercase**
 
 ```javascript
