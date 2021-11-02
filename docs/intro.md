@@ -2,11 +2,9 @@
 sidebar_position: 1
 ---
 
-# Into to FlightPath
+# Getting Started
 
 Let's discover **Flight Path in less than 5 minutes**.
-
-## Getting Started
 
 Firstly follow the docs on [developer.fastly.com](https://developer.fastly.com) for getting started with Javascript in C@E:
 
