@@ -56,6 +56,11 @@ const config = {
             label: 'Docs',
           },
           {
+            href: 'https://github.com/williamoverton/FlightPath/tree/main/examples',
+            label: 'Examples',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/williamoverton/FlightPath',
             label: 'GitHub',
             position: 'right',
