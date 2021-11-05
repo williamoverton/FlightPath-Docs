@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # What Are Middleware?
 
-Below is an example middleware:
+Middleware allows you to run code on a request before any routes are run. This is useful for things like authentication, controlling headers, or other things that need to happen before your routes are run. 
+
+The below example shows how to use middleware to add a header to all requests:
 
 ```javascript
 router.use((req, res) => {
@@ -12,4 +14,10 @@ router.use((req, res) => {
 });
 ```
 
-All middleware run on every request, can read the incoming request and also write to the response. They do not stop the appropriate route from being called. The above example adds the `x-powered-by` header to every response.
+If you only want middleware to run on specific routes, you can pass a path to the middleware:
+
+```javascript
+router.use("/api/*", (req, res) => {
+  console.log("Got a request to the api!");
+});
+```
